@@ -3,3 +3,6 @@ Zur Ain binti Hanafi
 Mohd Firdaus bin Mohamed Khairi
 Khairun Nisa binti Mohammad Nasir
 Norazzah afizah binti Jailani 
+
+Colab working file
+https://colab.research.google.com/drive/1-ORFCfs_mocbiJvfu_Aks8A0XddBT1Kb?usp=sharing
