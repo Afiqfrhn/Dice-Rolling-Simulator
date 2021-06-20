@@ -6,3 +6,5 @@ Norazzah afizah binti Jailani
 
 Colab working file
 https://colab.research.google.com/drive/1-ORFCfs_mocbiJvfu_Aks8A0XddBT1Kb?usp=sharing
+
+***Please read the DiceRoll(1).ipynb***
